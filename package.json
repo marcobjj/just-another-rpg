@@ -1,0 +1,27 @@
+{
+  "name": "just-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobjj/just-another-rpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobjj/just-another-rpg/issues"
+  },
+  "homepage": "https://github.com/marcobjj/just-another-rpg#readme"
+}
